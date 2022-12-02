@@ -1,0 +1,9 @@
+.NavBar{
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.NavBar > div{
+    background-color: bisque;
+}
