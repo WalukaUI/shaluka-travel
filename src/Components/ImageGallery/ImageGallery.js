@@ -1,7 +1,8 @@
+import './ImageGallery.css'
 import TravelCourousel from "../Courousel/Courousel";
 function ImageGallery() {
   return (
-    <div>
+    <div className='images'>
       <TravelCourousel />
     </div>
   );
