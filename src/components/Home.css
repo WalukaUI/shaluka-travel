@@ -2,6 +2,7 @@ main{
     background-color: aliceblue;
     min-height: 700px;
     display: flex;
+    font-family: 'Signika', sans-serif;
 }
 .mainSection{
     width: 75%;

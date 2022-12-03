@@ -1,8 +1,6 @@
 .comments{
-    /* display: flex;
+    display: flex;
     flex-direction: column;
-    justify-content: space-evenly; */
-    display: block;
-overflow: auto;
+    justify-content: space-evenly;
 min-height: 100%;
 }
