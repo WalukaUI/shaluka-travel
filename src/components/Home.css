@@ -1,0 +1,15 @@
+main{
+    background-color: aliceblue;
+    min-height: 700px;
+    display: flex;
+}
+.mainSection{
+    width: 75%;
+    background-color: antiquewhite;
+    height: 100%;
+}
+.commentSection{
+    width: 25%;
+    background-color: brown;
+    height: 100%;
+}
