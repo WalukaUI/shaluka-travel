@@ -1,10 +1,10 @@
 import React from "react";
-import NavBar from "./NavBar/NavBar.js.js";
+import NavBar from "./NavBar/NavBar.js";
 import "./Home.css";
-import Comments from "./Comments/Comments.js.js";
-import ImageGallery from "./ImageGallery/ImageGallery.js.js";
-import Footer from "./Footer/Footer.js.js";
-import TopBar from "./TopBar/TopBar.js.js";
+import Comments from "./Comments/Comments.js";
+import ImageGallery from "./ImageGallery/ImageGallery.js";
+import Footer from "./Footer/Footer.js";
+import TopBar from "./TopBar/TopBar.js";
 
 function Home() {
   return (
@@ -13,7 +13,7 @@ function Home() {
       <NavBar />
       <main>
         <section className="mainSection">
-          <ImageGallery/>
+          <ImageGallery />
         </section>
         <section className="commentSection">
           <Comments />

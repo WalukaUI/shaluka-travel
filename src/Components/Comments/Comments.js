@@ -1,12 +1,3 @@
-import './Comments.css'
-<styles>
-{/* .comments{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-evenly;
-min-height: 100%;
-} */}
-</styles>
 function Comments() {
     return<>
     <h3>Comments are shown here</h3>
