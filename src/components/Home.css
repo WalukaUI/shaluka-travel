@@ -1,19 +1,19 @@
-main{
-    background-color: aliceblue;
-    min-height: 700px;
-    display: flex;
-    font-family: 'Signika', sans-serif;
+main {
+  background-color: aliceblue;
+  min-height: 700px;
+  display: flex;
+  font-family: "Signika", sans-serif;
 }
-.mainSection{
-    width: 75%;
-    background-color: antiquewhite;
-    height: 100%;
-    min-height: 100%;
+.mainSection {
+  width: 75%;
+  background-color: antiquewhite;
+  height: 100%;
+  min-height: 100%;
 }
-.commentSection{
-    display: flex;
-    flex-direction: column;
-    width: 25%;
-    background-color: brown;
-    min-height: 100%;
+.commentSection {
+  display: flex;
+  flex-direction: column;
+  width: 25%;
+  background-color: brown;
+  min-height: 100%;
 }
