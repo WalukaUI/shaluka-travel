@@ -6,7 +6,7 @@ function TopBar() {
         <div className="topBarChild">
             <span class="material-symbols-outlined">phone_in_talk </span>
             <span style={{color: "#2f083b"}}>"  "</span>
-            <p>   +94776500723</p>
+            <p>   +94 776 500 723</p>
         </div>
         <div className="topBarChild">
             <span class="material-symbols-outlined">location_on</span>

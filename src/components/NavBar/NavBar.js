@@ -2,10 +2,10 @@ import './NavBar.css'
 function NavBar() {
     return<>
     <div className="NavBar">
-        <div>Home</div>
-        <div>Packages</div>
-        <div>Destinations</div>
-        <div>Conatct me</div>
+        <div><a href="#">Home</a></div>
+        <div><a href="#">Packages</a></div>
+        <div><a href="#">Destinations</a></div>
+        <div><a href="#">Conatct me</a></div>
     </div>
     </>
 }
